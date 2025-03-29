@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+transformers
+torch
+streamlit
+web3
